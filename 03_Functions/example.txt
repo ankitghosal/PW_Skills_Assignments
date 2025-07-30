@@ -1,0 +1,3 @@
+Hello World!
+Example for Implementing Generator Function.
+yield.line.strip()
