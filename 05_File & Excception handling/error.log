@@ -1,0 +1,12 @@
+ERROR:root:Division by zero error: division by zero
+ERROR:root:This is an ERROR message.
+ERROR:root:This is an ERROR message.
+ERROR:root:This is an ERROR message.
+ERROR:root:An error occurred: division by zero
+ERROR:root:Division by zero error: division by zero
+ERROR:root:This is an ERROR message.
+ERROR:root:An error occurred: division by zero
+ERROR:root:Division by zero error: division by zero
+ERROR:root:This is an ERROR message.
+ERROR:root:An error occurred: division by zero
+ERROR:root:File not found: [Errno 2] No such file or directory: 'nonexistent.txt'
